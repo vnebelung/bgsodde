@@ -1,0 +1,51 @@
+1 VERSION
+
+Diese Übersetzung ist auf dem Stand vom 2020-06-01 und basiert auf SoD vtest
+
+2 HINWEISE
+
+Wenn  eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installtionsdatei der installierten Version.
+
+Das Spiel darf während der Installation nicht bereits laufen.
+
+Wenn Ihr SoD von GOG oder Steam verwendet, müsst Ihr das Spiel erst vorbereiten, bevor Ihr Mods installieren könnt. Hierfür gibt es argent77s DLC-Merger (https://github.com/Argent77/A7-DlcMerger) oder das ältere Tool Modmerge (https://github.com/ScottBrooks/modmerge).
+
+SoD ist ein aktiv supportetes Spiel, für das es ab und zu Patches geben könnte. Bitte bedenkt, dass jedes Spiel-Update Eure Spieldaten wieder bereinigt! Nach einem Update muss die Mod erneut installiert werden.
+
+3 INSTALLATION
+
+3.1 Windows
+
+a) Entpackt den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITIN.KEY-Datei). Bei erfolgreichem Entpacken solltet Ihr einen Ordner „bgsodde“ und eine ausführbare Datei „setup-bgsodde.exe“ in Eurem Spielordner vorfinden.
+	
+b) Führt die Datei „setup-bgsodde.exe“ über Doppelklick aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
+
+Über erneutes Ausführen der „setup-bgsodde.exe“ in Eurem Spielordner kann die Mod auch deinstalliert werden.
+
+3.2 macOS
+
+a) Entpackt den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITIN.KEY-Datei). Bei erfolgreichem Entpacken solltet Ihr einen Ordner „bgsodde“ und eine Datei „setup-bgsodde“ in Eurem Spielordner vorfinden.
+
+b) Öffnet die App „Terminal“.
+
+c) Macht die Datei „setup-bgsodde“ ausführbar. Gebt dazu Folgendes ein: „chmod +x “ (Leerzeichen am Ende beachten!) und zieht anschließend die Datei „setup-bgsodde“ auf das Terminal-Fenster. Drückt abschließend die ENTER-Taste.
+
+d) Schließt die App „Terminal“ wieder.
+
+e) Führt die Datei „setup-bgsodde“ über Doppelklick aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
+
+Über erneutes Ausführen der „setup-bgsodde“ in Eurem Spielordner kann die Mod auch deinstalliert werden.
+
+3.3 Linux
+
+a) Entpackt den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITIN.KEY-Datei). Bei erfolgreichem Entpacken solltet Ihr einen Ordner „bgsodde“ in Eurem Spielordner vorfinden.
+
+b) Ladet die neueste Version von WeiDU für Linux von https://github.com/WeiDUorg/weidu/releases herunter und kopiert entweder die drei Dateien „bin/amd64/weidu“, „bin/amd64/weinstall“ und „bin/amd64/tolower“ oder die drei Dateien „bin/x86/weidu“, „bin/x86/weinstall“ und „bin/x86/tolower“ nach /usr/bin, je nach Architektur Eures Systems.
+
+c) Öffnet ein Terminal.
+
+d) Wechselt mit „cd“ in Eurer Spielverzeichnis und startet „tolower“. Antwortet auf beide Nachfragen mit „Y“.
+
+e) Führt den Befehl „weinstall bgsodde“ aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
+
+f) Schließt das Terminal wieder.

@@ -1,0 +1,18 @@
+BACKUP ~bgsodde/backup~
+AUTHOR ~https://baldurs-gate.de/index.php?threads/deutsche-Übersetzung-für-siege-of-dragonspear.44932/~
+VERSION ~2020-06-01~
+README ~liesmich.txt~
+
+LANGUAGE ~Deutsch~ ~german~  ~bgsodde/dialogs.tra~
+
+// Component 1
+
+BEGIN ~SoD: Deutscher Text-Patch von Shai Hulud und Are~
+
+ACTION_IF GAME_IS ~bgee~ AND FILE_EXISTS_IN_GAME ~bd0103.are~ THEN BEGIN
+STRING_SET_RANGE #34000 #71403 USING ~bgsodde/dialogs.tra~
+END
+
+ACTION_IF GAME_IS ~eet~ THEN BEGIN
+STRING_SET_RANGE #234000 #271403 USING ~bgsodde/dialogs.tra~
+END
