@@ -1,6 +1,6 @@
-1 VERSION
+1 VERSIONSANGABEN
 
-Diese Übersetzung ist auf dem Stand vom 2020-06-01 und basiert auf SoD vtest
+Diese Übersetzung ist auf dem Stand vom 2020-05-02 und basiert auf SoD v2.5.17.0.
 
 2 HINWEISE
 
