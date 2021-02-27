@@ -3,11 +3,10 @@ INHALT
 1   Version
 2   Hinweise
 3   Installation
-3.1 Windows
-3.2 macOS
-3.3 Linux
+3.1 Windows 32 und 64 bit
+3.2 macOS 64 bit
+3.3 Linux 64 bit
 4   Rückmeldung bei Fehlern
-
 
 
 1 VERSION
@@ -16,7 +15,7 @@ Diese Übersetzung ist auf dem Stand vom 2020-05-02 und basiert auf SoD v2.5.17.
 
 2 HINWEISE
 
-Wenn eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installtionsdatei der installierten Version.
+Wenn  eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installtionsdatei der installierten Version.
 
 Das Spiel darf während der Installation nicht bereits laufen.
 
@@ -29,17 +28,17 @@ Wenn Ihr SoD von GOG oder Steam verwendet, müsst Ihr das Spiel erst vorbereiten
 - argent77's DLC Merger: https://github.com/Argent77/A7-DlcMerger/releases/tag/v1.2 (empfohlen) oder
 - modmerge: https://github.com/ScottBrooks/modmerge/releases
 
-3.1 Windows
+3.1 Windows 32 und 64 bit
 
-a) Entpackt den Inhalt der ZIP-Datei in Euer Spielverzeichnis (dieses enthält die CHITIN.KEY Datei). Bei erfolgreichem Entpacken solltet Ihr einen Ordner „bgsodde“ und eine ausführbare Datei „setup-bgsodde.exe“ in Eurem Spielordner vorfinden.
+a) Kopiert den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITIN.KEY-Datei), das heißt, Ihr solltet einen Ordner „bgsodde“ und eine ausführbare Datei „setup-bgsodde.exe“ in Eurem Spielordner vorfinden.
 	
 b) Führt die Datei „setup-bgsodde.exe“ über Doppelklick aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
 
 Über erneutes Ausführen der „setup-bgsodde.exe“ in Eurem Spielordner kann die Mod auch deinstalliert werden.
 
-3.2 macOS
+3.2 macOS 64 bit
 
-a) Entpackt den Inhalt der ZIP-Datei in Euer Spielverzeichnis (dieses enthält die CHITIN.KEY Datei). Bei erfolgreichem Entpacken solltet Ihr einen Ordner „bgsodde“ und eine Datei „setup-bgsodde“ in Eurem Spielordner vorfinden.
+a) Kopiert den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITIN.KEY-Datei), das heißt, Ihr solltet einen Ordner „bgsodde“ und eine Datei „setup-bgsodde“ in Eurem Spielordner vorfinden.
 
 b) Öffnet die App „Terminal“.
 
@@ -51,19 +50,17 @@ e) Führt die Datei „setup-bgsodde“ über Doppelklick aus. Bestätigt die In
 
 Über erneutes Ausführen der „setup-bgsodde“ in Eurem Spielordner kann die Mod auch deinstalliert werden.
 
-3.3 Linux
+3.3 Linux 64 bit
 
-a) Entpackt den Inhalt der ZIP-Datei in Euer Spielverzeichnis (dieses enthält die CHITIN.KEY Datei). Bei erfolgreichem Entpacken solltet Ihr einen Ordner „bgsodde“ in Eurem Spielordner vorfinden.
+a) Kopiert den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITIN.KEY-Datei), das heißt, Ihr solltet einen Ordner „bgsodde“, eine Datei „weidu“, eine Datei „weinstall“ und eine Datei „tolower“ in Eurem Spielordner vorfinden.
 
-b) Ladet die neueste Version von WeiDU für Linux von https://github.com/WeiDUorg/weidu/releases herunter und kopiert entweder die drei Dateien „bin/amd64/weidu“, „bin/amd64/weinstall“ und „bin/amd64/tolower“ oder die drei Dateien „bin/x86/weidu“, „bin/x86/weinstall“ und „bin/x86/tolower“ nach /usr/bin, je nach Architektur Eures Systems.
+b) Öffnet ein Terminal.
 
-c) Öffnet ein Terminal.
+c) Wechselt mit „cd“ in Eurer Spielverzeichnis und startet „./tolower“. Antwortet auf beide Nachfragen mit „Y“.
 
-d) Wechselt mit „cd“ in Eurer Spielverzeichnis und startet „tolower“. Antwortet auf beide Nachfragen mit „Y“.
+d) Führt den Befehl „./weinstall bgsodde“ aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
 
-e) Führt den Befehl „weinstall bgsodde“ aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
-
-f) Schließt das Terminal wieder.
+e) Schließt das Terminal wieder.
 
 4 RÜCKMELDUNG BEI FEHLERN
 
