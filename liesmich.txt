@@ -15,7 +15,7 @@ Diese Übersetzung ist auf dem Stand vom 2020-05-02 und basiert auf SoD v2.5.17.
 
 2 HINWEISE
 
-Wenn  eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installtionsdatei der installierten Version.
+Wenn eine vorherige Version der Mod installiert ist, muss diese erst deinstalliert werden. Benutzt dafür einfach die Installtionsdatei der installierten Version.
 
 Das Spiel darf während der Installation nicht bereits laufen.
 
@@ -56,11 +56,13 @@ a) Kopiert den Inhalt der ZIP-Datei in Euer Spielverzeichnis (enthält die CHITI
 
 b) Öffnet ein Terminal.
 
-c) Wechselt mit „cd“ in Eurer Spielverzeichnis und startet „./tolower“. Antwortet auf beide Nachfragen mit „Y“.
+c) Macht die drei Dateien weidu“, „weinstall“ und „tolower“ ausführbar. Wechselt dazu mit „cd“ in Eurer Spielverzeichnis und gebt Folgendes ein: „chmod +x weidu weinstall tolower“. Drückt abschließend die ENTER-Taste.
 
-d) Führt den Befehl „./weinstall bgsodde“ aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
+d) Startet „./tolower“. Antwortet auf beide Nachfragen mit „Y“.
 
-e) Schließt das Terminal wieder.
+e) Führt den Befehl „./weinstall bgsodde“ aus. Bestätigt die Installation. Es sollten nun alle benötigten Dateien kopiert und die Installation durchgeführt werden. Das Installationsfenster durch das Drücken der ENTER-Taste schließen, wenn die Aufforderung dazu erscheint.
+
+f) Schließt das Terminal wieder.
 
 4 RÜCKMELDUNG BEI FEHLERN
 
