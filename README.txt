@@ -11,7 +11,7 @@ CONTENTS
 
 1 VERSION
 
-This translation is as of 2020-05-02 and is based on SoD v2.5.17.0.
+This translation is as of 2021-04-20 and is based on SoD v2.6.5.0
 
 2 REMARKS
 
@@ -25,7 +25,7 @@ SoD is an actively supported game, for which there might be patches from time to
 
 If you are using SoD from GOG or Steam, you will need to prepare the game before you can install mods. There are two ways to do this:
 
-- argent77's DLC Merger: https://github.com/Argent77/A7-DlcMerger/releases/tag/v1.2 (recommended) or
+- argent77's DLC Merger: https://github.com/Argent77/A7-DlcMerger/releases/tag/v2.6.5.0 (recommended) or
 - modmerge: https://github.com/ScottBrooks/modmerge/releases
 
 3.1 WINDOWS 32 AND 64 BIT
