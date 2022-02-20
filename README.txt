@@ -6,12 +6,13 @@ CONTENTS
 3.1 Windows 32 and 64 bit
 3.2 macOS 64 bit
 3.3 Linux 64 bit
-4   Feedback in case of errors
+4   Differences to the orginial translation
+5   Feedback in case of errors
 
 
 1 VERSION
 
-This translation is as of 2021-04-20 and is based on SoD v2.6.5.0
+This translation is as of 2022-02-20 and is based on SoD v2.6.6.0.
 
 2 REMARKS
 
@@ -25,7 +26,7 @@ SoD is an actively supported game, for which there might be patches from time to
 
 If you are using SoD from GOG or Steam, you will need to prepare the game before you can install mods. There are two ways to do this:
 
-- argent77's DLC Merger: https://github.com/Argent77/A7-DlcMerger/releases/tag/v2.6.5.0 (recommended) or
+- argent77's DLC Merger: https://github.com/Argent77/A7-DlcMerger/releases/tag/v1.3 (recommended) or
 - modmerge: https://github.com/ScottBrooks/modmerge/releases
 
 3.1 WINDOWS 32 AND 64 BIT
@@ -64,6 +65,44 @@ e) Executes the command "./weinstall bgsodde". Confirm the installation. Now all
 
 f) Close the terminal.
 
-4 FEEDBACK IN CASE OF ERRORS
+4 DIFFERENCES TO THE ORIGINAL TRANSLATION
+
+The following table contains recurring terms of this tranlsation that differ from the ones used in the original translation.
+
+----------------------------------------------------------------------------------
+ English term             Original translation      bgsodde                  
+----------------------------------------------------------------------------------
+ Fenster                  Fenster                   Fester                      
+ Phossey Dugdeep          Phossey Tiefschürfer      Poschne Tiefschürfer        
+ Hooded Man               Mann mit Kapuze           Vermummter Mann             
+ M'Khiin Grubdoubler      M'Khiin Madendoppler      M’Khiin Doppelfraß
+ Minsc                    Minsc                     Minsk                       
+ Caelar Argent            Caelar Argent             Caelar Silberweiß           
+ Hephernaan               Hephernaan                Ifearnan                    
+ Andrus                   Andrus                    Andra                       
+ Aun Argent               Aun Argent                Aun Silberweiß              
+ Crusader                 Kreuzzritter/Kreuzfahrer  Kreuzzügler                 
+ Bridgefort               Brückenfort               Brückenfeste                
+ Dahk Hensleigh           Dahk Hensleigh            Dahk Henslai                
+ Estebarre                Estebarre                 Estebar                     
+ Gnarg Big-Bug            Gnarg Big-Bug             Gnarg Großmücke             
+ Hero of Baldur’s Gate    Held von Baldurs Tor      Held/Heldin von Baldurs Tor 
+ Nederlok                 Nederlok                  Nederlock                   
+ Patrescus                Patrescus                 Patreskus                   
+ Rayphus Goodtree         Rayphus Gutbaum           Raifus Gutbaum              
+ Rhonda Swiftfootsdottir  Rhonda Swiftfootsdottir   Rhonda Schnellfußdottir     
+ Thrix the Profane        Thrix der Profane         Thrix der Gottlose          
+ Uxley                    Uxley                     Uxlai                       
+ Dead Mans Pass           Pass des toten Mannes     Totmannpass                 
+ Coast Way Forest         Küstenwegforst            Küstenwegwald               
+ Troll Claw Forest        Trollklauenwald           Trollklauen-Wälder          
+ Coats Way Crossing       Küstenwegübergang         Küstenwegquerung            
+ High Moor                Hochmoor                  Hohe Heide                  
+ coalition camp           Koalitionslager           Bündnislager                
+ Myrleena                 Myrleena                  Mirlena                     
+ Pritchard                Pritchard                 Peptram                     
+----------------------------------------------------------------------------------
+
+5 FEEDBACK IN CASE OF ERRORS
 
 The mod is maintained at https://www.baldurs-gate.de/index.php?threads/44932/. Questions or notes about spelling errors or the like can be placed there.
