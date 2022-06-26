@@ -1,6 +1,3 @@
 # Deutsche Übersetzung für Baldur's Gate: Siege of Dragonspear (SoD)
 
-https://www.baldurs-gate.de/index.php?threads/deutsche-Übersetzung-für-siege-of-dragonspear.44932/
-
-Installationsanweisungen sind in der [README.txt](README.txt) aufgeführt, die auch Teil der Download-Pakete ist:
-https://github.com/vnebelung/bgsodde/releases
+Diese Mod wurde abgelöst von https://www.baldurs-gate.de/index.php?threads/shai-huluds-text-patch.45417/#post-1097309
